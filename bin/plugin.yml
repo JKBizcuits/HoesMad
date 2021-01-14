@@ -1,0 +1,8 @@
+name: HoesMad
+version: 1.0;
+author: JK_Bizcuits
+main: me.JK_Bizcuits.HoesMad.Main
+api-version: 1.15
+description: Crop Interactions
+commands:
+  Trample:
